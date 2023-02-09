@@ -1,0 +1,16 @@
+id: ICED800BA
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:39:47.142443
+last_modified: 2023-02-10 00:39:47.142548
+source_metadata:
+  title: Udānavarga
+  language: en
+bases:
+  87D5:
+    base_file: 87D5.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
